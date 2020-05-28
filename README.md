@@ -8,7 +8,5 @@
 [INDEED]: <https://www.indeed.co.in>
 
 ## Usage
-> save the bs4 folder and python file in the same location
-> run and enter job title to be searched
-
-
+save the bs4 folder and python file in the same location
+run and enter job title to be searched
