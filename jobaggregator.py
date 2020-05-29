@@ -31,7 +31,7 @@ for job_elem in job_elems:
 
 print("==============================\n")
 
-#Naukri.com
+#Indeed.co.in
 n="0"
 while True:
     url2="https://www.indeed.co.in/jobs?q="+search.replace(" ","+")+"&start="+n
